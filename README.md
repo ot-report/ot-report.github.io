@@ -90,8 +90,9 @@ Use it where your hospital allows. The signed paper form remains the medical rec
 
 ## Found a problem?
 
-Open an issue in this repository. Never include patient names, I/C or M.R. numbers, or a photo of a
-filled form.
+Tell us through the [suggestion form](https://forms.gle/TEVwYenqVXScFsW77) (Settings › Suggest a change in
+the app), or open an issue in this repository. Never include patient names, I/C or M.R. numbers, or a
+photo of a filled form.
 
 ## Licence
 
