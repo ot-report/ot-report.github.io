@@ -1,6 +1,6 @@
 // Offline cache. Bump VERSION whenever index.html changes so phones pick up the update.
 // Install fetches with cache:"reload": GitHub Pages lets browsers keep files 10 min, and a stale copy would be cached as the new version.
-const VERSION="ot-report-v1.20";
+const VERSION="ot-report-v1.21";
 const FILES=["./","./index.html","./manifest.webmanifest","./icon-180.png","./icon-192.png","./icon-512.png"];
 self.addEventListener("install",e=>{ e.waitUntil(caches.open(VERSION).then(c=>c.addAll(FILES.map(f=>new Request(f,{cache:"reload"})))).then(()=>self.skipWaiting())); });
 // Other sites can share this address (every GitHub Pages site of one account does): touch and search only this app's own caches.
