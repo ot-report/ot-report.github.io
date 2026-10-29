@@ -12,7 +12,12 @@ and saved as a PDF that prints on A4 exactly where the paper form expects it.
 <p align="center"><b><a href="https://ot-report.github.io/">Open the app</a></b><br>
 <a href="https://ot-report.github.io/">https://ot-report.github.io/</a></p>
 
-<br>
+<p align="center">
+  <img src="screenshots/form.png" width="240" alt="The patient section of the form on a phone">
+  <img src="screenshots/drawing.png" width="240" alt="The drawing pad: both jaws, a shaded tooth and a labelled plate across a fracture">
+  <img src="screenshots/preview.png" width="240" alt="The A4 preview, with the drawing printed beside the operative findings">
+</p>
+<p align="center"><sub>A made-up patient. Never share a screenshot of a real one.</sub></p>
 
 ## Install it once
 
@@ -44,10 +49,11 @@ Every new report starts from them.
 
 ## Also inside
 
-- A drawing pad over anatomical diagrams (mandible, midface, skull, ankle, wrist, dental charts and
-  more), with plates and adjustable screws, fractures, incisions, sutures and shading. A drawing of one
-  side, such as the TMJ or the hand, can be switched to the other side. The drawing is printed beside the
-  operative findings.
+- A drawing pad over anatomical diagrams (both jaws as on an OPG, midface, skull, ankle, wrist, dental
+  charts and more), with plates and adjustable screws, fractures, incisions, sutures and shading. Tap a
+  tooth to shade it. Give a plate, screw or wire a label with its sizes; the sizes you used before come
+  back as one-tap buttons. A drawing of one side, such as the TMJ or the hand, can be switched to the
+  other side. The drawing is printed beside the operative findings.
 - A teeth builder for OMFS and paediatric dentistry: set what was done to each tooth and it writes the
   procedure for you.
 - ICD-10 suggestions as you type a diagnosis. They help you choose the words and are never printed.
