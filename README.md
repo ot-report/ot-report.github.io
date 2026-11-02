@@ -52,8 +52,10 @@ Every new report starts from them.
 - A drawing pad over anatomical diagrams (both jaws as on an OPG, midface, skull, ankle, wrist, dental
   charts and more), with plates and adjustable screws, fractures, incisions, sutures and shading. Tap a
   tooth to shade it. Give a plate, screw or wire a label with its sizes; the sizes you used before come
-  back as one-tap buttons. A drawing of one side, such as the TMJ or the hand, can be switched to the
-  other side. The drawing is printed beside the operative findings.
+  back as one-tap buttons. Tap a screw to leave its hole empty. With the Tooth tool, mark a tooth
+  missing, leave only its roots, or move and tilt it; the Eraser rubs out part of the diagram, such as a
+  broken crown. A drawing of one side, such as the TMJ or the hand, can be switched to the other side.
+  The drawing is printed beside the operative findings, and Edit on its picture reopens it.
 - A teeth builder for OMFS and paediatric dentistry: set what was done to each tooth and it writes the
   procedure for you.
 - ICD-10 suggestions as you type a diagnosis. They help you choose the words and are never printed.
